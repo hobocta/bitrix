@@ -1,0 +1,19 @@
+.catalog-element__delay,
+.catalog-element__delayed {
+	display: inline-block;
+	text-decoration: none;
+}
+.catalog-element__delay:hover,
+.catalog-element__delayed:hover {
+	text-decoration: none;
+}
+.catalog-element__delay i,
+.catalog-element__delayed i {
+	color: #3382c5;
+}
+.catalog-element__delay--hide {
+	display: none;
+}
+.catalog-element__delayed--hide {
+	display: none;
+}
